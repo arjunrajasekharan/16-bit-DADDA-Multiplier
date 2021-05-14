@@ -4,4 +4,9 @@
 # Usage
 ```iverilog dadda_tb.v```
 
+# Output
+-Test Bench
+<img width="1577" alt="TestBenchOutput" src="https://user-images.githubusercontent.com/60811574/118267724-24e83500-b4da-11eb-89ca-50dcffe52e1d.png">
 
+-GTK Waveform
+<img width="1577" alt="GTKWave" src="https://user-images.githubusercontent.com/60811574/118267761-32052400-b4da-11eb-98fe-f5b31205ad57.png">
